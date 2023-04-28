@@ -1,0 +1,1 @@
+All the images needs to be on the local machine. Download any image you want for a product under assets folder in the frontend Angular subfolder. In the database products table, image URL of a product refers to the image present in the assets folder.
